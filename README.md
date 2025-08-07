@@ -1,5 +1,8 @@
 # 🪓 Zombieland 
 
+## 📷 Screenshot
+![Gameplay Screenshot](images/gameplay.png)
+
 ## 📖 Story
 In the chaos of a zombie apocalypse, you play as a desperate father searching for his lost son.  
 Armed with an endless supply of axes, you must run through the streets, dodge obstacles, kill zombies to survive, and avoid harming innocent survivors.  
